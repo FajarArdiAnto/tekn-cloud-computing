@@ -3,7 +3,7 @@
 
 * PaaS - Platform-as-a-Service - Layanan cloud yang mengabstraksi infrastruktur (pengguna tidak bisa melihat komputer, loadbalancers, dll.) Melainkan menyediakan platform pengembangan perangkat lunak. Dimungkinkan untuk membuat kode dan menjalankan aplikasi pada PaaS dan sistem memastikan bahwa aplikasi memiliki infrastruktur yang diperlukan untuk membuatnya berjalan dan skala.
 
-*SaaS - Software-as-a-Service - Layanan cloud yang memberikan pengguna akses ke perangkat lunak dengan layanan mandiri, sesuai permintaan. Ini bisa berupa aplikasi tunggal atau memberikan katalog perangkat lunak yang dapat dipilih pengguna.
+* SaaS - Software-as-a-Service - Layanan cloud yang memberikan pengguna akses ke perangkat lunak dengan layanan mandiri, sesuai permintaan. Ini bisa berupa aplikasi tunggal atau memberikan katalog perangkat lunak yang dapat dipilih pengguna.
 
 
 # Arsitektur Platform SAAS (Perangkat Lunak sebagai Layanan)
